@@ -1,0 +1,6 @@
+== My Thoughts
+
+
+This is a simple blogging application created to maintain, share, ponder on my own thoughts.
+
+Watch out this space for more features and thoughts :)
